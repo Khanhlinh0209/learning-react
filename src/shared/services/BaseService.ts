@@ -5,7 +5,7 @@
 import type { AxiosInstance } from "axios";
 import { apiClient } from "@/lib/axios";
 import type { PaginatedResponse, SelectOption } from "@/shared/types";
-
+import {React} from "react";
 /**
  * Base service config interface với 4 GENERIC TYPE PARAMETERS.
  *
